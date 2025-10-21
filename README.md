@@ -8,6 +8,8 @@ To install, simply subscribe to the steam version of the mod [here](https://stea
 
 Congratulations, you've installed the basic version of the mod which already includes custom units, battles, buildings, resources, animations, missions, custom lords and heroes, a mercenary system and much more. Most people refine the experience by adding a few more mods. Below you will find my basic load order that I ususally play with.
 
+![My Image](https://drive.google.com/uc?export=view&id=1rV5Kskt3HGQz8MagM7YPcj-XhNUitwSV)
+
 ## Kanban Board
 
 Check out what's being worked on [here](https://github.com/users/RealDeHess/projects/1):
