@@ -6,7 +6,7 @@ This is an Overview Panel of the Community Beastmen Mod. Here you will find info
 
 To install, simply subscribe to the steam version of the mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883):
 
-Congratulations, you've installed the basic version of the mod which already includes custom units, battles, buildings, resources, animations, missions, custom lords and heroes, a mercenary system and much more. Most people refine the experience by adding a few more mods. Below you will find my basic load order that I ususally play with.
+Congratulations, you've installed the basic version of the mod which already includes custom units, battles, buildings, resources, animations, missions, custom lords and heroes, a mercenary system and much more. Most people refine the experience by adding a few more mods. Below you will find my basic load order that I ususally play with. This gets you the maximum amount of animations. 
 
 ![My Image](https://drive.google.com/uc?export=view&id=1rV5Kskt3HGQz8MagM7YPcj-XhNUitwSV)
 
