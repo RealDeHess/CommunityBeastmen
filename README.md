@@ -16,7 +16,7 @@ Check out what's being worked on [here](https://github.com/users/RealDeHess/proj
 
 ## Helpful Console Commands
 
-In case the missions or scripts break, you can summon the different corrupted Heroes and Lords using the pj console mod. 
+In case missions or scripts break, you can summon the corrupted Heroes and Lords using the pj console mod, which can be found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2791241084)
 
 - click on a lord or settlement where you want to spawn the hero
 - open pj console (top left of screen)
@@ -55,7 +55,7 @@ These are some other useful commands that I use for testing:
 
 `fff` remove fog of war
 
-`tele` click on general, click on target, enter this command, and voila.
+`tele` click on a general, click on a target and enter this command to teleport.
 
 
 
