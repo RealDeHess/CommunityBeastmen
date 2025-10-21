@@ -63,4 +63,8 @@ When spawned in this "artifical" manner, the lords spawn without names (Heroes d
 
 [Futa Valkia Reskin](https://www.loverslab.com/files/file/43295-futa-valkia/)
 
+[Femboy Teclis](https://www.loverslab.com/files/file/43295-futa-valkia/)
+
+[Futa Witch Elves](https://www.loverslab.com/files/file/42706-futa-witch-elves/)
+
 
