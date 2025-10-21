@@ -2,7 +2,7 @@
 
 This is an Overview Panel of the Community Beastmen Mod. Here you will find information on how to install, modify and play the mod.
 
-## Commands
+## Helpful Console Commands
 
 In case the missions or scripts break, you can summon the different corrupted Heroes and Lords using the pj console mod. 
 
@@ -24,7 +24,7 @@ legend ariel_hero_corrupted
 legend katarin_hero_corrupted
 legend repanse_hero_corrupted
  ```
-...or Lord:
+...or lord:
 
 ```
 spawn corrupted_alarielle
@@ -38,6 +38,12 @@ spawn corrupted_sisters
 spawn corrupted_miao
 spawn valkia_lord_futa
 ```
+
+These are some other useful commands that I use for testing:
+
+`fff` remove fog of war
+`tele` click on general, click on target, enter this command, and voila.
+
 
 
 ## Other Mods
