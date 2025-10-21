@@ -5,7 +5,7 @@ This is an Overview Panel of the Community Beastmen Mod. Here you will find info
 
 ## Links
 
-[Kanban Board]([https://example.com](https://github.com/users/RealDeHess/projects/1))
+[Kanban Board](https://github.com/users/RealDeHess/projects/1)
 
 
 
