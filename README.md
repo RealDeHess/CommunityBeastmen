@@ -1,1 +1,1 @@
-# CommunityBeastmen
+# Community Beastmen Guide
