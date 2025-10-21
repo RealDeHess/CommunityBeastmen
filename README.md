@@ -42,6 +42,7 @@ spawn valkia_lord_futa
 These are some other useful commands that I use for testing:
 
 `fff` remove fog of war
+
 `tele` click on general, click on target, enter this command, and voila.
 
 
