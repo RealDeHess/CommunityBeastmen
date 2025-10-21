@@ -2,12 +2,15 @@
 
 This is an Overview Panel of the Community Beastmen Mod. Here you will find information on how to install, modify and play the mod.
 
+## Installation
+
+To install, simply subscribe to the steam version of the mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883):
+
+Congratulations, you've installed the basic version of the mod which already includes custom units, battles, buildings, resources, animations, missions, custom lords and heroes, a mercenary system and much more. Most people refine the experience by adding a few more mods. Below you will find my basic load order that I ususally play with.
 
 ## Kanban Board
 
-Check out what's being worked on:
-
-[Kanban Board](https://github.com/users/RealDeHess/projects/1)
+Check out what's being worked on [here](https://github.com/users/RealDeHess/projects/1):
 
 
 
