@@ -59,4 +59,6 @@ These are some other useful commands that I use for testing:
 
 When spawned in this "artifical" manner, the lords spawn without names (Heroes do). To remedy this, you can use the Rename Legendary Lords mod, found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2856126380&searchtext=rename+legendary+lords)
 
-## Other Mods
+## Some compatible md
+
+
