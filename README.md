@@ -57,6 +57,6 @@ These are some other useful commands that I use for testing:
 
 `tele` click on a general, click on a target and enter this command to teleport.
 
-
+When spawned in this "artifical" manner, the lords spawn without names (Heroes do). To remedy this, you can use the Rename Legendary Lords mod, found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2856126380&searchtext=rename+legendary+lords)
 
 ## Other Mods
