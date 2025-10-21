@@ -3,7 +3,9 @@
 This is an Overview Panel of the Community Beastmen Mod. Here you will find information on how to install, modify and play the mod.
 
 
-## Links
+## Kanban Board
+
+Check out what's being worked on:
 
 [Kanban Board](https://github.com/users/RealDeHess/projects/1)
 
