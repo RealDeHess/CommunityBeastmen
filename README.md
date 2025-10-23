@@ -86,6 +86,8 @@ When spawned in this "artifical" manner, the lords spawn without names (Heroes d
 - Zenoas (Kept the discord horny in 2024)
 - CrwO (Responsible for *that* loading screen)
 
+Honorable Mention: Zeta0080 for letting us use some of their Warmaiden assets.
+
 Other contributions: fleatrollus, Keylara, Pochi 20, raitaroo, belikea, solarblaster
 
 
