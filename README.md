@@ -61,7 +61,7 @@ These are some other useful commands that I use for testing:
 
 When spawned in this "artifical" manner, the lords spawn without names (Heroes do). To remedy this, you can use [Rename Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=2856126380&searchtext=rename+legendary+lords)
 
-## Bonus Mods & Reskins
+## DeHess Bonus Mods & Reskins
 
 [Futa Valkia Reskin](https://www.loverslab.com/files/file/43295-futa-valkia/)
 
