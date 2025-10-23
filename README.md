@@ -4,7 +4,7 @@ This is an Overview Panel of the Community Beastmen Mod. Here you will find info
 
 ## Installation
 
-To install, simply subscribe to the steam version of the mod [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883):
+To install, simply subscribe to the steam version of [Community Beastmen](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883):
 
 Congratulations, you've installed the basic version of the mod which already includes custom units, battles, buildings, resources, animations, missions, custom lords and heroes, a mercenary system and much more. Most people refine the experience by adding a few more mods. Below you will find my basic load order that I ususally play with. This gets you the maximum amount of animations. Both [Community Beastmen](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883) and [More Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2798690094) can be found on steam, the rest is pinned in the discord channel for now.
 
@@ -68,5 +68,25 @@ When spawned in this "artifical" manner, the lords spawn without names (Heroes d
 [Femboy Teclis](https://www.loverslab.com/files/file/43295-futa-valkia/)
 
 [Futa Witch Elves](https://www.loverslab.com/files/file/42706-futa-witch-elves/)
+
+## Credits
+
+- Endo (The Dark Lord of Animation)
+- lypt (...His Apprentice)
+- Lynn (Put Women everywhere)
+- Candles (ancillaries galore)
+- Jojo ()
+- PassingByPosts (kept it all together in the early days)
+- Sewerat (King of the Second Golden Age of Beasts)
+- Kerberos (The Mentor)
+- DeHess (Made the heroes and the script bugs)
+- Rielle (The Custodian of Steam)
+- Rael117 (Stories that make you feel good things)
+- Jadis (The OG corruption stories)
+- Zenoas (Kept the discord horny in 2024)
+- CrwO (Responsible for *that* loading screen)
+
+Other contributions and mentions: fleatrollus, Keylara, Pochi 20, raitaroo, belikea
+
 
 
