@@ -78,7 +78,7 @@ When spawned in this "artifical" manner, the lords spawn without names (Heroes d
 - Jojo &
 - Sewerat (The Kings of the Golden Age)
 - Kerberos (The Mentor)
-- DeHess (Made the heroes and the script bugs)
+- DeHess (Introduced the heroes and the script bugs)
 - Rielle (The Custodian of Steam)
 - Rael117 (Stories that make you feel good things)
 - Jadis (OG corruption stories)
