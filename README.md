@@ -84,7 +84,7 @@ When spawned in this "artifical" manner, the lords spawn without names (Heroes d
 - Jadis (OG corruption stories)
 - Primal__Fox (Morathi & Sulephet)
 - Zenoas (Kept the discord horny in 2024)
-- CrwO (Responsible for *that* loading screen)
+- CrwO (Responsible for *the* loading screen)
 
 Honorable Mention: Zeta0080 for letting us use some of their Warmaiden assets.
 
