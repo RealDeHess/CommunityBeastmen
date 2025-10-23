@@ -59,7 +59,7 @@ These are some other useful commands that I use for testing:
 
 `tele` click on a general, click on a target and enter this command to teleport.
 
-When spawned in this "artifical" manner, the lords spawn without names (Heroes do). To remedy this, you can use the Rename Legendary Lords mod, found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2856126380&searchtext=rename+legendary+lords)
+When spawned in this "artifical" manner, the lords spawn without names (Heroes do). To remedy this, you can use [Rename Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=2856126380&searchtext=rename+legendary+lords)
 
 ## Bonus Mods & Reskins
 
@@ -70,23 +70,23 @@ When spawned in this "artifical" manner, the lords spawn without names (Heroes d
 [Futa Witch Elves](https://www.loverslab.com/files/file/42706-futa-witch-elves/)
 
 ## Credits
-
 - Endo (The Dark Lord of Animation)
 - lypt (...His Apprentice)
-- Lynn (Put Women everywhere)
-- Candles (ancillaries galore)
-- Jojo ()
-- PassingByPosts (kept it all together in the early days)
-- Sewerat (King of the Second Golden Age of Beasts)
+- PassingByPosts (Kept it all together in the early days)
+- Lynn (Put Women Everywhere)
+- Candles (Ancillaries Galore)
+- Jojo &
+- Sewerat (The Kings of the Golden Age)
 - Kerberos (The Mentor)
 - DeHess (Made the heroes and the script bugs)
 - Rielle (The Custodian of Steam)
 - Rael117 (Stories that make you feel good things)
-- Jadis (The OG corruption stories)
+- Jadis (OG corruption stories)
+- Primal__Fox (Morathi & Sulephet)
 - Zenoas (Kept the discord horny in 2024)
 - CrwO (Responsible for *that* loading screen)
 
-Other contributions and mentions: fleatrollus, Keylara, Pochi 20, raitaroo, belikea
+Other contributions: fleatrollus, Keylara, Pochi 20, raitaroo, belikea, solarblaster
 
 
 
