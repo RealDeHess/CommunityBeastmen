@@ -88,7 +88,7 @@ When spawned in this "artifical" manner, the lords spawn without names (Heroes d
 
 Honorable Mention: Zeta0080 for letting us use some of their Warmaiden assets.
 
-Other contributions: fleatrollus, Keylara, Pochi 20, raitaroo, belikea, solarblaster
+Other contributions: fleatrollus, Keylara, Pochi 20, raitaroo, belikea, solarblaster, sootytx
 
 
 
