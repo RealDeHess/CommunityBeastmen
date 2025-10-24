@@ -20,6 +20,8 @@ Animations. If you install all the animation mods listed above, you will have th
 
 Custom Units: The mod includes some units that can be recruited in the normal way, corrupted elves and bestigor hunters are both included in th bestigor unit pool and their caps are increased together with normal bestigors. There are also some special units that can only be summoned into battle by special characters.
 
+Slaves Resource: A special resource that is gained through fighting battles and in some events. It can be used to build a powerful herdstone, in events, and to purchase Ravager Mercenaries.
+
 Mercenaries: All beastmen LLs have access to the Ravager Mercenary system. To recruit Ravagers, you must first purchase them through the rites screen, which can be opened through a button at the bottom right of the screen. Once you have purchased a unit, you can recruit them through the special recruitment button in the army view. 
 
 Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the animations. At the start of a new campaign, you will have a bunch of missions listed. Every mission with the title "Capture XYZ I" is a mission chain that will eventually lead you to corrupting the enemy LL in question, and recruiting them. For most enemy LLs, you will have a choice to either use them as a lord, or as a hero. Exceptions to the rule are Katarin, Repanse and Ariel, which don't have a lord option. The lord options are less polished, and may contain placeholder texts and unbalanced abilities. All "dominant" LLs such as Morathi or Valkia, will have a more fleshed out lord option in the future. More "submissive" LLs like Alarielle will remain in the condition in which they were initially released.
