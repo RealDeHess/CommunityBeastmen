@@ -84,6 +84,7 @@ When spawned in this "artifical" manner, the lords spawn without names (Heroes d
 [Futa Witch Elves](https://www.loverslab.com/files/file/42706-futa-witch-elves/)
 
 ## Credits
+Contributors:
 - Endo (The Dark Lord of Animation)
 - lypt (...His Apprentice)
 - PassingByPosts (Kept it all together in the early days)
@@ -105,7 +106,7 @@ Honorable Mentions:
 - Zeta0080 for letting us use some of their Warmaiden assets.
 - Soboro for letting us use their gorgeous 3d artworks.
 
-Other contributions / Testing 
+Minor Contributions / Testing 
 - fleatrollus
 - Keylara
 - Pochi 20
