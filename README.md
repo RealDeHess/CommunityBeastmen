@@ -95,12 +95,15 @@ When spawned in this "artifical" manner, the lords spawn without names (Heroes d
 - DeHess (Introduced the heroes and the script bugs)
 - Rielle (The Custodian of Steam)
 - Rael117 (Stories that make you feel good things)
+- ReginaDea (The only non-Soboro art on the big screen)
 - Jadis (OG corruption stories)
 - Primal__Fox (Morathi & Sulephet)
 - Zenoas (Kept the discord horny in 2024)
 - CrwO (Responsible for *the* loading screen)
 
-Honorable Mention: Zeta0080 for letting us use some of their Warmaiden assets.
+Honorable Mentions: 
+- Zeta0080 for letting us use some of their Warmaiden assets.
+- Soboro for letting us use their gorgeous 3d artworks.
 
 Other contributions: fleatrollus, Keylara, Pochi 20, raitaroo, belikea, solarblaster, sootytx
 
