@@ -105,7 +105,7 @@ Honorable Mentions:
 - Zeta0080 for letting us use some of their Warmaiden assets.
 - Soboro for letting us use their gorgeous 3d artworks.
 
-Other contributions: fleatrollus, Keylara, Pochi 20, raitaroo, belikea, solarblaster, sootytx
+Other contributions, testing and people that kept backups of old files: fleatrollus, Keylara, Pochi 20, raitaroo, belikea, solarblaster, sootytx, belikea
 
 
 
