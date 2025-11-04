@@ -6,9 +6,7 @@ This is an Overview Panel of the Community Beastmen Mod. Here you will find info
 
 To install, simply subscribe to the steam version of [Community Beastmen](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883):
 
-Congratulations, you've installed the basic version of the mod which already includes custom units, battles, buildings, resources, animations, missions, custom lords and heroes, a mercenary system and much more. Most people refine the experience by adding a few more mods. Below you will find my basic load order that I ususally play with. This gets you the maximum amount of animations. Both [Community Beastmen](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883) and [More Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2798690094) can be found on steam, the rest is pinned in the discord channel for now.
-
-![My Image](https://drive.google.com/uc?export=view&id=1rV5Kskt3HGQz8MagM7YPcj-XhNUitwSV)
+Congratulations, you've installed the basic version of the mod which already includes custom units, battles, buildings, resources, animations, missions, custom lords and heroes, a mercenary system and much more. Most people refine the experience by adding a few more mods. The most important one is undeoubtedly: "More Animations", which will increase the amount of animations you see during a battle. Both [Community Beastmen](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883) and [More Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2798690094) can be found on steam, the rest is pinned in the discord channel for now.
 
 ## Kanban Board
 
