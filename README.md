@@ -62,7 +62,6 @@ spawn corrupted_morathi
 spawn corrupted_aranessa
 spawn corrupted_sisters
 spawn corrupted_miao
-spawn valkia_lord_futa
 ```
 
 These are some other useful commands that I use for testing:
