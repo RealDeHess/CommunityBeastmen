@@ -24,6 +24,13 @@ Slaves Resource: A special resource that is gained through fighting battles and 
 
 Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the animations. At the start of a new campaign, you will have a bunch of missions listed. Every mission with the title "Capture XYZ I" is a mission chain that will eventually lead you to corrupting the enemy LL in question, and recruiting them. For most enemy LLs, you will have a choice to either use them as a lord, or as a hero. Below you will find a table describing the options you have, as well as their implementation status:
 
+| LL    | Lord Option | Hero Option |
+| -------- | ------- | ------- |
+| January  | $250    | $250    |
+| February | $80     | $250    |
+| March    | $420    | $250    |
+
+
 
 
 Exceptions to the rule are Katarin, Repanse and Ariel, which don't have a lord option. In most cases, the lord option is a lot less "finished", as they were created a long time ago and haven't been updated by me (I much prefer heroes) Their skill trees might contain placeholder texts or unbalanced abilities, and is pretty messy in most cases. T
