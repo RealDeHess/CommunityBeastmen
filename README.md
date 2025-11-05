@@ -39,14 +39,7 @@ Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the a
 | Miao | Unfinished | Yes |
 | Fay | Unfinished | Yes |
 
-
-
-
-
-Exceptions to the rule are Katarin, Repanse and Ariel, which don't have a lord option. In most cases, the lord option is a lot less "finished", as they were created a long time ago and haven't been updated by me (I much prefer heroes) Their skill trees might contain placeholder texts or unbalanced abilities, and is pretty messy in most cases. T
-
-
-All "dominant" LLs, such as Morathi or Valkia, have a more fleshed out lord option in the future. More "submissive" LLs like Alarielle will remain in the condition in which they were initially released.
+All "dominant" LLs, such as Morathi or Valkia, have a more fleshed out lord option. The lord options of the more "submissive" LLs like Alarielle will remain in the condition in which they were initially released.
 
 
 
