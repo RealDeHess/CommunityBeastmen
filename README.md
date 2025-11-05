@@ -22,7 +22,7 @@ Mercenaries: All beastmen LLs have access to the Ravager Mercenary system. To re
 
 Slaves Resource: A special resource that is gained through fighting battles and in some events. It can be used to build a powerful herdstone, in events, and to purchase Ravager Mercenaries.
 
-Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the animations. At the start of a new campaign, you will have a bunch of missions listed. Every mission with the title "Capture XYZ I" is a mission chain that will eventually lead you to corrupting the enemy LL in question, and recruiting them. For most enemy LLs, you will have a choice to either use them as a lord, or as a hero. Below you will find a table describing the options you have, as well as their implementation status:
+Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the animations. At the start of a new campaign, you will have a bunch of missions listed. Every mission with the title "Capture XYZ I" is a mission chain that will eventually lead you to corrupting the enemy LL in question, and recruiting them. For most enemy LLs, you will have a choice to either use them as a lord, or as a hero. Below you will find a table describing the options you have, as well as their implementation status: (unfinished means that the skill trees to be messy, unbalanced and may contain placeholder texts. But will absolutely function)
 
 | LL Character | Lord Option | Hero Option |
 | -------- | ------- | ------- |
