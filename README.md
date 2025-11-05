@@ -6,7 +6,7 @@ This is an Overview Panel of the Community Beastmen Mod. Here you will find info
 
 To install, simply subscribe to the steam version of [Community Beastmen](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883):
 
-Congratulations, you've installed the basic version of the mod which already includes custom units, battles, buildings, resources, animations, missions, custom lords and heroes, a mercenary system and much more. Most people refine the experience by adding a few more mods. The most important one is undeoubtedly: "More Animations", which will increase the amount of animations you see during a battle. Both [Community Beastmen](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883) and [More Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2798690094) can be found on steam, the rest is pinned in the discord channel for now.
+Congratulations, you've installed the basic version of the mod which already includes custom units, battles, buildings, resources, animations, missions, custom lords and heroes, a mercenary system and much more. Most people refine the experience by adding a few more mods. The most important one is undoubtedly: "More Animations", which will increase the amount of animations you see during a battle. Both [Community Beastmen](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883) and [More Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2798690094) can be found on steam, the rest is pinned in the discord channel for now.
 
 ## Kanban Board
 
@@ -14,15 +14,22 @@ Check out what's being worked on [here](https://github.com/users/RealDeHess/proj
 
 ## Features and How to use Them
 
-Animations. If you install all the animation mods listed above, you will have the maximum amount of animations possible. Simply zoom in on an ongoing engagement in a battle and enjoy. The animations only work on models that are on foot. They won't work on cavalry or mounted characters. In addition, the custom lord abilities are not animated, as forcing a matched animation on skill use is not supported by the game's engine. 
+Animations. If you install the mods mentioned above, you will have the maximum amount of animations possible. Simply zoom in on an ongoing engagement in a battle and enjoy. The animations only work on models that are on foot. They won't work on cavalry or mounted characters. In addition, the custom lord abilities are not animated, as forcing a matched animation on skill use is not supported by the game's engine. 
 
-Custom Units: The mod includes some units that can be recruited in the normal way, corrupted elves and bestigor hunters are both included in th bestigor unit pool and their caps are increased together with normal bestigors. There are also some special units that can only be summoned into battle by special characters.
-
-Slaves Resource: A special resource that is gained through fighting battles and in some events. It can be used to build a powerful herdstone, in events, and to purchase Ravager Mercenaries.
+Custom Units: The mod includes some units that can be recruited in the normal way: corrupted elves and bestigor hunters are both included in th bestigor unit pool and their caps are increased together with normal bestigors. Then there are mercenaries which can only be recruited through their UI, and there are also some units that can only be summoned into battle by special characters.
 
 Mercenaries: All beastmen LLs have access to the Ravager Mercenary system. To recruit Ravagers, you must first purchase them through the rites screen, which can be opened through a button at the bottom right of the screen. Once you have purchased a unit, you can recruit them through the special recruitment button in the army view. 
 
-Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the animations. At the start of a new campaign, you will have a bunch of missions listed. Every mission with the title "Capture XYZ I" is a mission chain that will eventually lead you to corrupting the enemy LL in question, and recruiting them. For most enemy LLs, you will have a choice to either use them as a lord, or as a hero. Exceptions to the rule are Katarin, Repanse and Ariel, which don't have a lord option. The lord options are less polished, and may contain placeholder texts and unbalanced abilities. All "dominant" LLs such as Morathi or Valkia, will have a more fleshed out lord option in the future. More "submissive" LLs like Alarielle will remain in the condition in which they were initially released.
+Slaves Resource: A special resource that is gained through fighting battles and in some events. It can be used to build a powerful herdstone, in events, and to purchase Ravager Mercenaries.
+
+Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the animations. At the start of a new campaign, you will have a bunch of missions listed. Every mission with the title "Capture XYZ I" is a mission chain that will eventually lead you to corrupting the enemy LL in question, and recruiting them. For most enemy LLs, you will have a choice to either use them as a lord, or as a hero. Below you will find a table describing the options you have, as well as their implementation status:
+
+
+
+Exceptions to the rule are Katarin, Repanse and Ariel, which don't have a lord option. In most cases, the lord option is a lot less "finished", as they were created a long time ago and haven't been updated by me (I much prefer heroes) Their skill trees might contain placeholder texts or unbalanced abilities, and is pretty messy in most cases. T
+
+
+All "dominant" LLs, such as Morathi or Valkia, have a more fleshed out lord option in the future. More "submissive" LLs like Alarielle will remain in the condition in which they were initially released.
 
 
 
