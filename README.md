@@ -34,20 +34,20 @@ Slaves Resource: A special resource that is gained through fighting battles and 
 
 Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the animations. At the start of a new campaign, you will have a bunch of missions listed. Every mission with the title "Capture XYZ I" is a mission chain that will eventually lead you to corrupting the enemy LL in question, and recruiting them. For most enemy LLs, you will have a choice to either use them as a lord, or as a hero. Below you will find a table describing the options you have, as well as their implementation status: (unfinished means that the skill trees to be messy, unbalanced and may contain placeholder texts. But will absolutely function)
 
-| LL Character | Lord Option | Hero Option |
-| -------- | ------- | ------- |
-| Alarielle | Unfinished | Yes |
-| Aranessa | Unfinished | Yes |
-| Ariel | No | Yes 
-| Isabella | Unfinished    | Yes |
-| Sisters | Unfinished    | Yes |
-| Valkia | Yes | Yes |
-| Khalida | Unfinished | Yes |
-| Morathi | Unfinished | Yes |
-| Repanse | No | Yes |
-| Katarin | No | Yes |
-| Miao | Unfinished | Yes |
-| Fay | Unfinished | Yes |
+| LL Character | Lord Option | Hero Option | Reskin Possible? | Variant Selector Support |
+| -------- | ------- | ------- | ------- | ------- |
+| Alarielle | Unfinished | Yes | Yes | Kerb's Variant Select |
+| Aranessa | Unfinished | Yes | Yes | No |
+| Ariel | No | Yes | Yes | Kerb's Variant Select |
+| Isabella | Unfinished    | Yes | Yes | No |
+| Sisters | Unfinished    | Yes |  Yes | Kerb's Variant Select |
+| Valkia | Yes | Yes |  Yes |  No |
+| Khalida | Unfinished | Yes | No |  No |
+| Morathi | Unfinished | Yes | Yes |  No |
+| Repanse | No | Yes | No |  No |
+| Katarin | No | Yes | Yes |  No |
+| Miao | Unfinished | Yes | Yes |  No |
+| Fay | Unfinished | Yes | Yes |  No |
 
 All "dominant" LLs, such as Morathi or Valkia, have a more fleshed out lord option. The lord options of the more "submissive" LLs like Alarielle will remain in the condition in which they were initially released.
 
