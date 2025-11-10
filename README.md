@@ -6,7 +6,13 @@ This is an Overview Panel of the Community Beastmen Mod. Here you will find info
 
 To install, simply subscribe to the steam version of [Community Beastmen](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883):
 
-Congratulations, you've installed the basic version of the mod which already includes custom units, battles, buildings, resources, animations, missions, custom lords and heroes, a mercenary system and much more. Most people refine the experience by adding a few more mods. The most important one is undoubtedly: "More Animations", which will increase the amount of animations you see during a battle. Both [Community Beastmen](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883) and [More Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2798690094) can be found on steam, the rest is pinned in the discord channel for now.
+Congratulations, you've installed the basic version of the mod which already includes custom units, battles, buildings, resources, animations, missions, custom lords and heroes, a mercenary system and much more. Most people refine the experience by adding a few more mods. The most important one is undoubtedly: "More Animations", which will increase the amount of animations you see during a battle. Both [Community Beastmen](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883) and  can be found on steam, the rest is pinned in the discord channel for now.
+
+## Additional Mods
+These are some compatible mods if you want to add to the experience:
+- [More Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2798690094) Maximises the amount of animations happening. Recommended.
+- [Kerb Asset Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3566908399) If you want to use one of Kerb's reskins for Ariel/Alarielle/Sisters
+- [Variant Selector](https://steamcommunity.com/sharedfiles/filedetails/?id=2888171970) If you want to use one of Kerb's reskins for Ariel/Alarielle/Sisters 
 
 ## Kanban Board
 
