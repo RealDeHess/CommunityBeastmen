@@ -49,7 +49,7 @@ Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the a
 | Miao | Unfinished | Yes | Yes |  No |
 | Fay | Unfinished | Yes | Yes |  No |
 
-All "dominant" LLs, such as Morathi or Valkia, have a more fleshed out lord option. The lord options of the more "submissive" LLs like Alarielle will remain in the condition in which they were initially released.
+All "dominant" LLs, such as Morathi or Valkia, have a more fleshed out lord option. The lord options of the more "submissive" LLs like Alarielle will remain in the condition in which they were initially released. Reskins cannot be applied to Khalida and Repanse, because they already get a custom reskin in this mod.
 
 
 
