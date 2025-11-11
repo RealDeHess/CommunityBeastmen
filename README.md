@@ -110,6 +110,7 @@ Contributors:
 - Sewerat (The Kings of the Golden Age)
 - Kerberos (The Mentor)
 - DeHess (Introduced the heroes and the script bugs)
+- InTheDark (He gave us women that have braided hair down there)
 - Rielle (The Custodian of Steam)
 - Rael117 (Stories that make you feel good things)
 - ReginaDea (The only non-Soboro art on the big screen)
@@ -131,6 +132,7 @@ Minor Contributions / Testing
 - solarblaster
 - sootytx
 - belikea
+- ThrowawayPoodle
 
 
 
