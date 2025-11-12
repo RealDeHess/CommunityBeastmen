@@ -117,13 +117,13 @@ Contributors:
 - Jadis (OG corruption stories)
 - Primal__Fox (Morathi & Sulephet)
 - Zenoas (Kept the discord horny in 2024)
-- CrwO (Responsible for *the* loading screen)
 
 Honorable Mentions: 
 - Zeta0080 for letting us use some of their Warmaiden assets.
 - Soboro for letting us use their gorgeous 3d artworks.
 
-Minor Contributions / Testing 
+Other Contributions / Testing 
+- CrwO
 - fleatrollus
 - Keylara
 - Pochi 20
