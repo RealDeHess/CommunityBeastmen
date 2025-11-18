@@ -16,7 +16,8 @@ These are some compatible mods if you want to add to the experience:
 - [Valkia Matched Animations](https://discordapp.com/channels/965342581745668136/1025523634745385014/1437325022401269760) Makes Valkia a target of Endo's matched animations. Animations are not perfectly aligned. Not recommended.
 - [Futa Valkia Reskin](https://www.loverslab.com/files/file/43295-futa-valkia/) Imbues Valkia with manhood. Meant for Valkia's futa choice in this mod.
 - [Femboy Teclis](https://www.loverslab.com/files/file/43295-futa-valkia/) Do I need to say more?
-- [Futa Witch Elves](https://www.loverslab.com/files/file/42706-futa-witch-elves/) 
+- [Futa Witch Elves](https://www.loverslab.com/files/file/42706-futa-witch-elves/)
+- [Scrollbar Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=3382930975&searchtext=lost+and+found) In case you cant recruit some units in the dread screen
 
 ## Kanban Board
 
@@ -110,12 +111,13 @@ Contributors:
 - Sewerat (The Kings of the Golden Age)
 - Kerberos (The Mentor)
 - DeHess (Introduced the heroes and the script bugs)
-- InTheDark (He gave us women that have braided hair down there)
+- InTheDark (Gve us women with *braided hair*)
+- Lamp (OP abilities and big dreams)
 - Rielle (The Custodian of Steam)
 - Rael117 (Stories that make you feel good things)
 - ReginaDea (The only non-Soboro art on the big screen)
 - Jadis (OG corruption stories)
-- Primal__Fox (Morathi & Sulephet)
+- Primal__Fox (Morathi & Sulephet story)
 - Zenoas (Kept the discord horny in 2024)
 
 Honorable Mentions: 
