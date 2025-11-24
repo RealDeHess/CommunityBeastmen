@@ -111,6 +111,7 @@ Contributors:
 - Sewerat (The Kings of the Golden Age)
 - Kerberos (The Mentor)
 - DeHess (Introduced the heroes and the script bugs)
+- Dreihorn (weapons and furry rats)
 - InTheDark (Gve us women with *braided hair*)
 - Lamp (OP abilities and big dreams)
 - Rielle (The Custodian of Steam)
@@ -130,7 +131,6 @@ Other Contributions / Testing
 - Keylara
 - Pochi 20
 - raitaroo
-- belikea
 - solarblaster
 - sootytx
 - belikea
