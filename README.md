@@ -25,7 +25,7 @@ Check out what's being worked on [here](https://github.com/users/RealDeHess/proj
 
 ## Features and How to use Them
 
-Animations. If you install the mods mentioned above, you will have the maximum amount of animations possible. Simply zoom in on an ongoing engagement in a battle and enjoy. The animations only work on models that are on foot. They won't work on cavalry or mounted characters. In addition, the custom lord abilities are not animated, as forcing a matched animation on skill use is not supported by the game's engine. 
+Animations. If you install the mods mentioned above, you will have the maximum amount of animations possible. Simply zoom in on an ongoing engagement in a battle and enjoy. The animations only work on models that are on foot. They won't work on mounted models and fleeing models (very unfortunate engine feature). In addition, the custom lord abilities are not animated, as forcing a matched animation on skill use is not supported by the game's engine. 
 
 Custom Units: The mod includes some units that can be recruited in the normal way: corrupted elves and bestigor hunters are both included in th bestigor unit pool and their caps are increased together with normal bestigors. Then there are mercenaries which can only be recruited through their UI, and there are also some units that can only be summoned into battle by special characters.
 
