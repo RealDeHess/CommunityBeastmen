@@ -44,7 +44,7 @@ Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the a
 | Isabella | Unfinished    | Yes | Yes | No |
 | Sisters | Unfinished    | Yes |  Yes | Yes |
 | Valkia | Yes | Yes |  Yes |  No |
-| Khalida | Unfinished | Yes | No |  No |
+| Khalida | Unfinished | Yes | No |  Yes |
 | Morathi | Unfinished | Yes | Yes |  Yes |
 | Repanse | No | Yes | No |  No |
 | Katarin | No | Yes | Yes |  Yes |
