@@ -39,17 +39,17 @@ Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the a
 | LL Character | Lord Option | Hero Option | Reskin Possible? | Variant Selector Support |
 | -------- | ------- | ------- | ------- | ------- |
 | Alarielle | Unfinished | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Aranessa | Unfinished | Yes | Yes | No |
-| Ariel | No | Yes | Yes | Yes |
-| Isabella | Unfinished    | Yes | Yes | No |
-| Sisters | Unfinished    | Yes |  Yes | Yes |
-| Valkia | Yes | Yes |  Yes |  No |
-| Khalida | Unfinished | Yes | No |  Yes |
-| Morathi | Unfinished | Yes | Yes |  Yes |
-| Repanse | No | Yes | No |  No |
-| Katarin | No | Yes | Yes |  Yes |
-| Miao | Unfinished | Yes | Yes |  Yes |
-| Fay | Unfinished | Yes | Yes |  No |
+| Aranessa | Unfinished | :white_check_mark: | :white_check_mark: | :x: |
+| Ariel | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Isabella | Unfinished    | :white_check_mark: | :white_check_mark: | :x: |
+| Sisters | Unfinished    | :white_check_mark: |  :white_check_mark: | :white_check_mark: |
+| Valkia | :white_check_mark: | :white_check_mark: |  :white_check_mark: |  :x: |
+| Khalida | Unfinished | :white_check_mark: | :x: |  :white_check_mark: |
+| Morathi | Unfinished | :white_check_mark: | :white_check_mark: |  :white_check_mark: |
+| Repanse | :x: | :white_check_mark: | :x: |  :x: |
+| Katarin | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Miao | Unfinished | :white_check_mark: | :white_check_mark: |  :white_check_mark: |
+| Fay | Unfinished | :white_check_mark: | :white_check_mark: |  :x: |
 
 All "dominant" LLs, such as Morathi or Valkia, have a more fleshed out lord option. The lord options of the more "submissive" LLs like Alarielle will remain in the condition in which they were initially released. Reskins cannot be applied to Khalida and Repanse, because they already get a custom reskin in this mod.
 
