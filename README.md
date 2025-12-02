@@ -12,7 +12,7 @@ Congratulations, you've installed the basic version of the mod which already inc
 These are some compatible mods if you want to add to the experience:
 - [More Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2798690094) Maximises the amount of animations happening. Recommended.
 - [Kerb Asset Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3566908399) If you want to use one of Kerb's reskins for Ariel/Alarielle/Sisters
-- [Variant Selector](https://steamcommunity.com/sharedfiles/filedetails/?id=2888171970) If you want to use one of Kerb's reskins for Ariel/Alarielle/Sisters
+- [Variant Selector](https://steamcommunity.com/sharedfiles/filedetails/?id=2888171970) If you want to use a "corruption stage" reskin pack
 - [Valkia Matched Animations](https://discordapp.com/channels/965342581745668136/1025523634745385014/1437325022401269760) Makes Valkia a target of Endo's matched animations. Animations are not perfectly aligned. Not recommended.
 - [Futa Valkia Reskin](https://www.loverslab.com/files/file/43295-futa-valkia/) Imbues Valkia with manhood. Meant for Valkia's futa choice in this mod.
 - [Femboy Teclis](https://www.loverslab.com/files/file/43295-futa-valkia/) Do I need to say more?
