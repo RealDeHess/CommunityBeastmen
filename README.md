@@ -38,7 +38,7 @@ Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the a
 
 | LL Character | Lord Option | Hero Option | Reskin Possible? | Variant Selector Support |
 | -------- | ------- | ------- | ------- | ------- |
-| Alarielle | Unfinished | Yes | Yes | Yes |
+| Alarielle | Unfinished | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Aranessa | Unfinished | Yes | Yes | No |
 | Ariel | No | Yes | Yes | Yes |
 | Isabella | Unfinished    | Yes | Yes | No |
