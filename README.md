@@ -30,11 +30,13 @@ Animations. If you install the mods mentioned above, you will have the maximum a
 
 Custom Units: The mod includes some units that can be recruited in the normal way: corrupted elves and bestigor hunters are both included in th bestigor unit pool and their caps are increased together with normal bestigors. Then there are mercenaries which can only be recruited through their UI, and there are also some units that can only be summoned into battle by special characters.
 
+Custom Events: Every once in a while you will get nsfw random events where you can decide how to allocate your herd's "resources". There are also a multitude of scripted events and dilemmas meant to reward certain acts of domination (Defeating certain characters in battle brings up some high quality art for example)
+
 Mercenaries: All beastmen LLs have access to the Ravager Mercenary system. To recruit Ravagers, you must first purchase them through the rites screen, which can be opened through a button at the bottom right of the screen. Once you have purchased a unit, you can recruit them through the special recruitment button in the army view. 
 
 Slaves Resource: A special resource that is gained through fighting battles and in some events. It can be used to build a powerful herdstone, in events, and to purchase Ravager Mercenaries.
 
-Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the animations. At the start of a new campaign, you will have a bunch of missions listed. Every mission with the title "Capture XYZ I" is a mission chain that will eventually lead you to corrupting the enemy LL in question, and recruiting them. For most enemy LLs, you will have a choice to either use them as a lord, or as a hero. Below you will find a table describing the options you have, as well as their implementation status: ( :construction: means that their skill trees is messy, unbalanced and may contain placeholder texts. But will absolutely function)
+Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the animations. At the start of a new campaign, you will have a bunch of missions listed. Every mission with the title "Capture XYZ I" is a mission chain that will eventually lead you to corrupting the enemy LL in question, and recruiting them. For most enemy LLs, you will have a choice to either use them as a lord, or as a hero. Below you will find a table describing the options you have, as well as their implementation status: ( :construction: means that the character is functional, but their skill trees is messy, unbalanced and may contain placeholder texts.)
 
 | LL Character | Lord Option | Hero Option | Reskin Possible? | Variant Selector Support |
 | -------- | ------- | ------- | ------- | ------- |
