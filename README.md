@@ -2,8 +2,8 @@
 
 This is an Overview Panel of the Community Beastmen Mod. Here you will find information on how to install, modify and play the mod.
 
-## Important Disclaimer: 
-This mod is meant to be used ONLY for Khazrak, Malagor, Taurox and Morghur playthroughs. If you use this mod when playing a non-beastman faction, you will see unpleasant side-effects, such as missing mounts for female Lords and hereos, as well as overwritten texts etc. If you really need to have tbe animations when playing a different faction, use an older version of the beastmen mod. Like this one from [Loverslab](https://www.loverslab.com/files/file/36361-community-beastmen-newest-newer-version/)
+## Important Disclaimers: 
+This mod is meant to be used ONLY for Khazrak, Malagor, Taurox and Morghur playthroughs. If you use this mod when playing a non-beastman faction, you will see unpleasant side-effects, such as missing mounts for female Lords and hereos, as well as overwritten texts etc. If you really need to have tbe animations when playing a different faction, use an older version of the beastmen mod. Like this one from [Loverslab](https://www.loverslab.com/files/file/36361-community-beastmen-newest-newer-version/). Additionally, it is not recommended to use any other animation mods together with Community Beastmen, as animation mods conflict very easily.
 
 ## Installation
 
