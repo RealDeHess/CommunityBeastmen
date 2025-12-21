@@ -59,6 +59,7 @@ Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the a
 | Katarin | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Miao | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: |
 | Fay | :construction: | :white_check_mark: | :white_check_mark: |  :x: |
+| Elspeth | :x: | :construction: | :white_check_mark: |  :x: |
 
 All "dominant" LLs, such as Morathi or Valkia, have a more fleshed out lord option. The lord options of the more "submissive" LLs like Alarielle will remain in the condition in which they were initially released. Reskins cannot be applied to Khalida and Repanse, because they already get a custom reskin in this mod.
 
