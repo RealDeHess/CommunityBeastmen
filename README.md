@@ -88,6 +88,7 @@ legend miao_hero_corrupted
 legend ariel_hero_corrupted
 legend katarin_hero_corrupted
 legend repanse_hero_corrupted
+legend elspeth_hero_corrupted
  ```
 ...or lord:
 
