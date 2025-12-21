@@ -3,11 +3,18 @@
 This is an Overview Panel of the Community Beastmen Mod. Here you will find information on how to install, modify and play the mod.
 
 ## Important Disclaimers: 
-This mod is meant to be used ONLY for Khazrak, Malagor, Taurox and Morghur playthroughs. If you use this mod when playing a non-beastman faction, you will see unpleasant side-effects, such as missing mounts for female Lords and hereos, as well as overwritten texts etc. If you really need to have tbe animations when playing a different faction, use an older version of the beastmen mod. Like this one from [Loverslab](https://www.loverslab.com/files/file/36361-community-beastmen-newest-newer-version/). Additionally, it is not recommended to use any other animation mods together with Community Beastmen, as animation mods conflict very easily.
+There are two versions of this mod "new_community_beastmen" and "community_beastmen_light"
+
+[Community Beastmen](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883) can be found both on Steam and Loverslab, and is meant to be used ONLY for Khazrak, Malagor, Taurox and Morghur playthroughs. If you use this mod when playing a non-beastman faction, you will see unpleasant side-effects, such as missing mounts for female Lords and hereos, overwritten texts, not being able to confederate. etc.
+
+[Community Beastmen Light](https://www.loverslab.com/files/file/46165-community-beastmen-all-versions-actually-up-to-date-seriously/) can only be found on Loverslab, and can be used when playing any faction. It only contains the beastmen reskins and animations.
+
+Do not use any other animation mods. They will conflict with the beastmen animations, which is very sad.
+
 
 ## Installation
 
-To install, simply subscribe to the steam version of [Community Beastmen](https://steamcommunity.com/sharedfiles/filedetails/?id=3476784883):
+To install, simply subscribe to the beastmen-only steam version, or download your preferred file from Loverslab. If you downloaded the file from loverslab, you must drop the .pack file into your data folder manually, for example: C:\SteamLibrary\steamapps\common\Total War WARHAMMER III\data
 
 Congratulations, you've installed the basic version of the mod which already includes custom units, battles, buildings, resources, animations, missions, custom lords and heroes, a mercenary system and much more. 
 
