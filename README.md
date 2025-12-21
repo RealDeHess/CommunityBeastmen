@@ -29,10 +29,7 @@ These are some compatible mods if you want to add to the experience:
 - [Futa Witch Elves](https://www.loverslab.com/files/file/42706-futa-witch-elves/)
 - [Scrollbar Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=3382930975&searchtext=lost+and+found) In case you cant recruit some units in the dread screen
 - [Ancient Warmaidens Compatibility Repack](https://cdn.discordapp.com/attachments/1025523634745385014/1429919013265477775/Ancient_Warmaidens_Repack.pack?ex=692f425b&is=692df0db&hm=be7846131cbf394d69e2769a86869a606fc7053e80a961a06374e92cf538c672&) A standalone reskin for Tomb Kings, to avoid "boning"
-
-## Kanban Board
-
-Check out what's being worked on [here](https://github.com/users/RealDeHess/projects/1):
+- [Rename Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=2856126380&searchtext=rename+legendary+lords) corrupted female lords currently spawn with a blank name, you can use this mod to fix it.
 
 ## Features and How to use Them
 
@@ -112,6 +109,10 @@ These are some other useful commands that I use for testing:
 `tele` click on a general, click on a target and enter this command to teleport.
 
 When spawned in this "artifical" manner, the lords spawn without names (Heroes do). To remedy this, you can use [Rename Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=2856126380&searchtext=rename+legendary+lords)
+
+## Kanban Board
+
+Check out what is currently being worked on [here](https://github.com/users/RealDeHess/projects/1):
 
 ## Credits
 Contributors:
