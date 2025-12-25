@@ -53,7 +53,7 @@ Corrupting Female LLs: Perhaps the most exiting feature of the mod besides the a
 | Isabella | :construction:    | :white_check_mark: | :white_check_mark: | :x: |
 | Sisters | :construction:    | :white_check_mark: |  :white_check_mark: | :white_check_mark: |
 | Valkia | :white_check_mark: | :white_check_mark: |  :white_check_mark: |  :x: |
-| Khalida | :construction: | :white_check_mark: | :x: |  :white_check_mark: |
+| Khalida | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: |
 | Morathi | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: |
 | Repanse | :x: | :white_check_mark: | :x: |  :x: |
 | Katarin | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
