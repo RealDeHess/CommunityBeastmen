@@ -9,7 +9,10 @@ There are two versions of this mod "new_community_beastmen" and "community_beast
 
 [Community Beastmen Light](https://www.loverslab.com/files/file/46165-community-beastmen-all-versions-actually-up-to-date-seriously/) can only be found on Loverslab, and can be used when playing any faction. It only contains the beastmen reskins and animations.
 
-Do not use any other animation mods. They will conflict with the beastmen animations, which is very sad.
+Do Not: 
+- use any other animation mods. They will conflict with the beastmen animations, which is very sad.
+- Use slaanesh vassalisation mods together with main mod. This will break the missions
+- Use Complete Warmaidens reskin, use seperate faction reskins instead
 
 
 ## Installation
