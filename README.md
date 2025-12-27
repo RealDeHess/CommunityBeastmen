@@ -131,7 +131,7 @@ Contributors:
 - Kerberos (The Mentor)
 - DeHess (Introduced the heroes and the script bugs)
 - Dreihorn (Long awaited variant selector support)
-- InTheDark (Gve us women with *braided hair*)
+- InTheDark (Gave us women with *braided hair*)
 - Lamp (OP abilities and big dreams)
 - Rielle (The Custodian of Steam)
 - Rael117 (Stories that make you feel good things)
