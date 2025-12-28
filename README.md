@@ -26,7 +26,7 @@ These are some compatible mods if you want to add to the experience:
 - [More Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2798690094) Maximises the amount of animations happening. Recommended.
 - [Kerb Asset Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3566908399) If you want to use one of Kerb's reskins for Ariel/Alarielle/Sisters. Recommended.
 - [Variant Selector](https://steamcommunity.com/sharedfiles/filedetails/?id=2888171970) If you want to use a "corruption stage" reskin pack. Recommended.
-- [Tomb Kings Standalone Reskin](https://cdn.discordapp.com/attachments/1025523634745385014/1429919013265477775/Ancient_Warmaidens_Repack.pack?ex=692f425b&is=692df0db&hm=be7846131cbf394d69e2769a86869a606fc7053e80a961a06374e92cf538c672&) A standalone reskin for Tomb Kings, to avoid "boning". Recommended
+- [Tomb Kings Standalone Reskin](https://drive.google.com/file/d/1quM812zJQMJbXSig2WcGZc2Q0VxTMfhM/view?usp=sharing) A standalone reskin for Tomb Kings, to avoid "boning". Recommended
 - [Rename Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=2856126380) corrupted female lords currently spawn with a blank name, you can use this mod to fix it. Recommended.
 - [Valkia Matched Animations](https://discordapp.com/channels/965342581745668136/1025523634745385014/1437325022401269760) Makes Valkia a target of Endo's matched animations. Animations are not perfectly aligned. Not recommended.
 - [Futa Valkia Reskin](https://www.loverslab.com/files/file/43295-futa-valkia/) Imbues Valkia with manhood. Meant for Valkia's futa choice in this mod.
