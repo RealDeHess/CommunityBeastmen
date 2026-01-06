@@ -31,7 +31,6 @@ These are some compatible mods if you want to add to the experience:
 - [Valkia Matched Animations](https://discordapp.com/channels/965342581745668136/1025523634745385014/1437325022401269760) Makes Valkia a target of Endo's matched animations. Animations are not perfectly aligned. Not recommended.
 - [Futa Valkia Reskin](https://www.loverslab.com/files/file/43295-futa-valkia/) Imbues Valkia with manhood. Meant for Valkia's futa choice in this mod.
 - [Femboy Teclis](https://www.loverslab.com/files/file/44088-femboy-teclis-reskin/) Do I need to say more?
-- [Futa Witch Elves](https://www.loverslab.com/files/file/42706-futa-witch-elves/) One of my other mods, only if you like this type of content.
 
 
 ## Features and How to use Them
