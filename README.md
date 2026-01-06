@@ -39,7 +39,7 @@ These are some compatible mods if you want to add to the experience:
 
 **Custom Units:** The mod includes some units that can be recruited in the normal way: corrupted elves and bestigor hunters are both included in th bestigor unit pool and their caps are increased together with normal bestigors. Then there are mercenaries which can only be recruited through their UI, and there are also some units that can only be summoned into battle by special characters.
 
-**Custom Events:** Every once in a while you will get nsfw random events where you can decide how to allocate your herd's "resources". There are also a multitude of scripted events and dilemmas meant to reward certain acts of domination (Defeating certain characters in battle brings up some high quality art for example)
+**Custom Events:** Every 10 turns starting on turn 5, you will get nsfw random events where you can decide how to allocate your herd's "resources". There are also a multitude of scripted events and dilemmas meant to reward certain acts of domination. For example: Defeating certain characters in battle.
 
 **Mercenaries:** All beastmen LLs have access to the Ravager Mercenary system. To recruit Ravagers, you must first purchase them through the rites screen, which can be opened through a button at the bottom right of the screen. Once you have purchased a unit, you can recruit them through the special recruitment button in the army view. 
 
