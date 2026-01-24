@@ -105,14 +105,54 @@ spawn corrupted_aranessa
 spawn corrupted_sisters
 spawn corrupted_miao
 ```
-
+When spawned in this "artifical" manner, the lords spawn without names (Heroes do). To remedy this, you can use [Rename Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=2856126380&searchtext=rename+legendary+lords)
 These are some other useful commands that I use for testing:
 
 `fff` remove fog of war
 
 `tele` click on a general, click on a target and enter this command to teleport.
 
-When spawned in this "artifical" manner, the lords spawn without names (Heroes do). To remedy this, you can use [Rename Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=2856126380&searchtext=rename+legendary+lords)
+If a final quest battle fails to trigger after the final dilemma, you can use the [Lua Console](https://steamcommunity.com/sharedfiles/filedetails/?id=2791799449&searchtext=lua+console) and you can use the following commands to manually trigger the mission
+
+`cm:trigger_mission(playerfaction, mission_key, true);`
+
+Where playerfaction is one of the following:
+```
+local morghur_faction = "wh_dlc05_bst_morghur_herd";
+local taurox_faction = "wh2_dlc17_bst_taurox";
+local malagor_faction = "wh2_dlc17_bst_malagor";
+local khazrak_faction = "wh_dlc03_bst_beastmen";
+```
+And mission_key is one of the following for hero version:
+```
+alarielle_hero_corrupted_mission
+fay_hero_corrupted_mission
+aranessa_hero_corrupted_mission
+sisters_hero_corrupted_mission
+miao_hero_corrupted_mission
+isabella_hero_corrupted_mission
+khalida_hero_corrupted_missionv
+morathi_hero_corrupted_mission
+katarin_hero_corrupted_mission
+repanse_hero_corrupted_mission
+elspeth_hero_corrupted_mission
+valkia_hero_corrupted_mission
+```
+and for the lord version:
+```
+bst_summon_alarielle
+bst_summon_sisters
+bst_summon_aranessa
+bst_summon_miao
+bst_summon_isabella
+bst_summon_khalida
+bst_summon_valkia
+bst_other_summon_fay
+sewrat_morathi_final_stand_mission
+```
+
+
+
 
 ## Kanban Board
 
