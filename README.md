@@ -13,7 +13,7 @@ There are two versions of this mod "new_community_beastmen" and "community_beast
 - Place Beastmen mod high up in your Load order
 
 **Do Not:** 
-- DO NOT use any other animation mods. They will conflict with the beastmen animations.
+- DO NOT Use any other animation mods. They will conflict with the beastmen animations.
 - DO NOT Use slaanesh vassalisation mods. This will break the missions. Usage together with lite version is ok.
 - DO NOT Use complete overhaul mods (SFO etc) together with this mod.
 - DO NOT Use "Recruit Defeated Legendary Lords" (why would you?)
