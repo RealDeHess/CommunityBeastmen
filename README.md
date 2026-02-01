@@ -9,9 +9,12 @@ There are two versions of this mod "new_community_beastmen" and "community_beast
 
 [Community Beastmen Light](https://www.loverslab.com/files/file/46165-community-beastmen-all-versions-actually-up-to-date-seriously/) can only be found on Loverslab, and can be used when playing any faction. It only contains the beastmen reskins and animations.
 
-Do Not: 
+**Do:**
+- Place Beastmen mod high up in your Load order
+
+**Do Not:** 
 - use any other animation mods. They will conflict with the beastmen animations, which is very sad.
-- Use slaanesh vassalisation mods together with main mod. This will break the missions
+- Use slaanesh vassalisation mods together with main mod. This will break the missions. Usage together with lite version is ok.
 - Use Complete Warmaidens reskin, use seperate faction reskins instead
 
 
@@ -19,7 +22,7 @@ Do Not:
 
 To install, simply subscribe to the beastmen-only steam version, or download your preferred file from Loverslab. If you downloaded the file from loverslab, you must drop the .pack file into your data folder manually, for example: C:\SteamLibrary\steamapps\common\Total War WARHAMMER III\data
 
-Congratulations, you've installed the basic version of the mod which already includes custom units, battles, buildings, resources, animations, missions, custom lords and heroes, a mercenary system and much more. 
+In your mod manager, **place beastmen at the top of your load order**. Congratulations, you've installed the basic version of the mod which already includes custom units, battles, buildings, resources, animations, missions, custom lords and heroes, a mercenary system and much more. 
 
 ## Additional Mods
 These are some compatible mods if you want to add to the experience:
