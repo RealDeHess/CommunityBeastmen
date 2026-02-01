@@ -18,6 +18,7 @@ There are two versions of this mod "new_community_beastmen" and "community_beast
 - DO NOT Use slaanesh vassalisation mods. This will break the missions. (Its ok to use with the Lite version)
 - DO NOT Use complete overhaul mods (SFO etc) together with this mod. (Its ok to use with the Lite version)
 - DO NOT Use "Recruit Defeated Legendary Lords" (why would you?) (Its ok to use with the Lite version)
+- DO NOT use a bazillion mods. Try to use what you really need, and disable all the rest. It will only cause issues.
 
 
 
