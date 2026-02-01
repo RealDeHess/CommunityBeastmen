@@ -22,7 +22,7 @@ There are two versions of this mod "new_community_beastmen" and "community_beast
 
 To install, simply subscribe to the beastmen-only steam version, or download your preferred file from Loverslab. If you downloaded the file from loverslab, you must drop the .pack file into your data folder manually, for example: C:\SteamLibrary\steamapps\common\Total War WARHAMMER III\data
 
-In your mod manager, **place beastmen at the top of your load order**. Congratulations, you've installed the basic version of the mod which already includes custom units, battles, buildings, resources, animations, missions, custom lords and heroes, a mercenary system and much more. 
+In your mod manager, **place beastmen at the top of your load order**. Congratulations, you've installed the mod.
 
 ## Additional Mods
 These are some compatible mods if you want to add to the experience:
