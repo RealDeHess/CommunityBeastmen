@@ -34,7 +34,7 @@ These are some compatible mods if you want to add to the experience:
 - [Mixu's Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=2802810577&searchtext=mixus+legendary) More Beastmen LLs! Just remember, you mustn't start as one of these modded LLs, else you will not have access to the nsfw beastmen features. Confederation works fine though!
 - [Mixu's Asset Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2802811244&searchtext=mixus+legendary) Assets needed for the previous mod to work.
 - [Beastpaths](https://steamcommunity.com/sharedfiles/filedetails/?id=3346259963&searchtext=beastpath) Allows long distance travel to certain locations.
-- [Bray Shaman Colonisation](https://discord.com/channels/965342581745668136/1025523634745385014/1474646972949598209) A small mod I made as an emergency solution for people that accidentally block their expansion with bloodgrounds.
+- [Bray Shaman Colonisation](https://drive.google.com/file/d/1XbckIKbvgXqLEBPItjm9MqiI667F96T7/view?usp=sharing) A small mod I made as an emergency solution for people that accidentally block their expansion with bloodgrounds.
 - [Beastmen Tech Tree](https://steamcommunity.com/sharedfiles/filedetails/?id=3000867445&searchtext=beastmen+tech) Adds some new techs to beastmen. It's ok if you want to play for very long. Personally I dont like how most of these techs just add 5% ward save to a unit set...
 - [Kerb Asset Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3566908399) If you want to use one of Kerb's reskins for Ariel/Alarielle/Sisters. Recommended.
 - [Variant Selector](https://steamcommunity.com/sharedfiles/filedetails/?id=2888171970) If you want to use a "corruption stage" reskin pack. Recommended.
