@@ -31,13 +31,18 @@ In your mod manager, **place beastmen at the top of your load order**. Congratul
 ## Additional Mods
 These are some compatible mods if you want to add to the experience:
 - [More Animations](https://steamcommunity.com/sharedfiles/filedetails/?id=2798690094) Maximises the amount of animations happening. Recommended.
+- [Mixu's Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=2802810577&searchtext=mixus+legendary) More Beastmen LLs! Just remember, you mustn't start as one of these modded LLs, else you will not have access to the nsfw beastmen features. Confederation works fine though!
+- [Mixu's Asset Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2802811244&searchtext=mixus+legendary) Assets needed for the previous mod to work.
+- [Beastpaths](https://steamcommunity.com/sharedfiles/filedetails/?id=3346259963&searchtext=beastpath) Allows long distance travel to certain locations.
+- [Bray Shaman Colonisation](https://discord.com/channels/965342581745668136/1025523634745385014/1474646972949598209) A small mod I made as an emergency solution for people that accidentally block their expansion with bloodgrounds.
+- [Beastmen Tech Tree](https://steamcommunity.com/sharedfiles/filedetails/?id=3000867445&searchtext=beastmen+tech) Adds some new techs to beastmen. It's ok if you want to play for very long. Personally I dont like how most of these techs just add 5% ward save to a unit set...
 - [Kerb Asset Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3566908399) If you want to use one of Kerb's reskins for Ariel/Alarielle/Sisters. Recommended.
 - [Variant Selector](https://steamcommunity.com/sharedfiles/filedetails/?id=2888171970) If you want to use a "corruption stage" reskin pack. Recommended.
 - [Tomb Kings Standalone Reskin](https://drive.google.com/file/d/1quM812zJQMJbXSig2WcGZc2Q0VxTMfhM/view?usp=sharing) A standalone reskin for Tomb Kings, to avoid "boning". Recommended
 - [Rename Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=2856126380) corrupted female lords currently spawn with a blank name, you can use this mod to fix it. Recommended.
 - [Valkia Matched Animations](https://discordapp.com/channels/965342581745668136/1025523634745385014/1437325022401269760) Makes Valkia a target of Endo's matched animations. Animations are not perfectly aligned. Not recommended.
 - [Futa Valkia Reskin](https://www.loverslab.com/files/file/43295-futa-valkia/) Imbues Valkia with manhood. Meant for Valkia's futa choice in this mod.
-- [Femboy Teclis](https://www.loverslab.com/files/file/44088-femboy-teclis-reskin/) Do I need to say more?
+- [Femboy Teclis](https://www.loverslab.com/files/file/44088-femboy-teclis-reskin/) My Femboy Teclis, maybe he'll be a corruptible hero one day....
 
 
 ## Features and How to use Them
