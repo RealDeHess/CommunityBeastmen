@@ -130,10 +130,10 @@ If a final quest battle fails to trigger after the final dilemma, you can use th
 
 Where playerfaction is one of the following:
 ```
-local morghur_faction = "wh_dlc05_bst_morghur_herd";
-local taurox_faction = "wh2_dlc17_bst_taurox";
-local malagor_faction = "wh2_dlc17_bst_malagor";
-local khazrak_faction = "wh_dlc03_bst_beastmen";
+"wh_dlc05_bst_morghur_herd"
+"wh2_dlc17_bst_taurox"
+"wh2_dlc17_bst_malagor"
+"wh_dlc03_bst_beastmen"
 ```
 And mission_key is one of the following for hero version:
 ```
