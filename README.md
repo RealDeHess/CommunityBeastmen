@@ -188,6 +188,7 @@ Contributors:
 - Rielle (The Custodian of Steam)
 - Rael117 (Stories that make you feel good things)
 - ReginaDea (The only non-Soboro art on the big screen)
+- harrylee6373 (Chinese Ambassador)
 - Jadis (OG corruption stories)
 - Primal__Fox (Morathi & Sulephet story)
 - Zenoas (Kept the discord horny in 2024)
