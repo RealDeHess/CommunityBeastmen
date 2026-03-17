@@ -62,18 +62,18 @@ These are some compatible mods if you want to add to the experience:
 | LL Character | Lord Option | Hero Option | Reskin Possible? | Variant Selector Support | What does she do?
 | -------- | ------- | ------- | ------- | ------- | ------- |
 | Alarielle | :construction: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Healer, Buffs Archers |
-| Aranessa | :construction: | :white_check_mark: | :white_check_mark: | :x: | |
-| Ariel | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |
-| Isabella | :construction:    | :white_check_mark: | :white_check_mark: | :x: | |
-| Sisters | :construction:    | :white_check_mark: |  :white_check_mark: | :white_check_mark: | |
-| Valkia | :white_check_mark: | :white_check_mark: |  :white_check_mark: |  :x: | |
-| Khalida | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | |
-| Morathi | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | |
-| Repanse | :x: | :white_check_mark: | :x: |  :x: | |
-| Katarin | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |
-| Miao | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | |
-| Fay | :construction: | :white_check_mark: | :white_check_mark: |  :x: | |
-| Elspeth | :x: | :white_check_mark: | :white_check_mark: |  :x: | |
+| Aranessa | :construction: | :white_check_mark: | :white_check_mark: | :x: | Combat Specialist, Buffs Ungors |
+| Ariel | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Healer, Support |
+| Isabella | :construction:    | :white_check_mark: | :white_check_mark: | :x: | Necromancer, Buffs Pestigors |
+| Sisters | :construction:    | :white_check_mark: |  :white_check_mark: | :white_check_mark: | Sniper, Buffs Flyers |
+| Valkia | :white_check_mark: | :white_check_mark: |  :white_check_mark: |  :x: | Combat Specialist, Buffs Khorngors and Minotaurs |
+| Khalida | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | Tzeentch Mage, Buffs Tzeentch units |
+| Morathi | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | Dark Mage |
+| Repanse | :x: | :white_check_mark: | :x: |  :x: | Combat Specialist, Buffs Centigors |
+| Katarin | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Ice Mage, Buffs Bestigors |
+| Miao | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | Healer, Support |
+| Fay | :construction: | :white_check_mark: | :white_check_mark: |  :x: | Healer, Support |
+| Elspeth | :x: | :white_check_mark: | :white_check_mark: |  :x: | Amethyst Mage, Buffs Gunpowder units |
 
 All "dominant" LLs, such as Morathi or Valkia, have a more fleshed out lord option. The lord options of the more "submissive" LLs like Alarielle will remain in the condition in which they were initially released. Reskins cannot be applied to Repanse, because she already gets a custom reskin in this mod.
 
