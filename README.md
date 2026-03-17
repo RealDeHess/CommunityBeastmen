@@ -61,16 +61,16 @@ These are some compatible mods if you want to add to the experience:
 
 | LL Character | Lord Option | Hero Option | Reskin Possible? | Variant Selector Support | What does she do?
 | -------- | ------- | ------- | ------- | ------- | ------- |
-| Alarielle | :construction: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Healer, Buffs Archers |
-| Aranessa | :construction: | :white_check_mark: | :white_check_mark: | :x: | Combat Specialist, Buffs Ungors |
-| Ariel | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Healer, Support |
-| Isabella | :construction:    | :white_check_mark: | :white_check_mark: | :x: | Necromancer, Buffs Pestigors |
-| Sisters | :construction:    | :white_check_mark: |  :white_check_mark: | :white_check_mark: | Sniper, Buffs Flyers |
-| Valkia | :white_check_mark: | :white_check_mark: |  :white_check_mark: |  :x: | Combat Specialist, Buffs Khorngors and Minotaurs |
-| Khalida | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | Tzeentch Mage, Buffs Tzeentch units |
-| Morathi | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | Dark Mage |
+| Alarielle | :construction: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Healer, Buffs Archers, Passive Healing |
+| Aranessa | :construction: | :white_check_mark: | :white_check_mark: | :x: | Combat Specialist, Buffs Ungors, Buffs Sea warfare |
+| Ariel | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Healer, Support, unit cap increases |
+| Isabella | :construction:    | :white_check_mark: | :white_check_mark: | :x: | Necromancer/Nurgle Mage, Buffs Pestigors |
+| Sisters | :construction:    | :white_check_mark: |  :white_check_mark: | :white_check_mark: | Flying Sniper, Buffs Flyers, Support Mage |
+| Valkia | :white_check_mark: | :white_check_mark: |  :white_check_mark: |  :x: | Combat Specialist, Buffs Khorngors and Minotaurs, Dom/Sub Path |
+| Khalida | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | Tzeentch Mage, Buffs Tzeentch units, buffs poison for archers |
+| Morathi | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | Dark Mage, campaign buffs |
 | Repanse | :x: | :white_check_mark: | :x: |  :x: | Combat Specialist, Buffs Centigors |
-| Katarin | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Ice Mage, Buffs Bestigors |
+| Katarin | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Ice Mage, Buffs Bestigors, Battlefield debuff for enemy |
 | Miao | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | Healer, Support |
 | Fay | :construction: | :white_check_mark: | :white_check_mark: |  :x: | Healer, Support |
 | Elspeth | :x: | :white_check_mark: | :white_check_mark: |  :x: | Amethyst Mage, Buffs Gunpowder units |
