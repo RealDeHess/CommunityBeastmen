@@ -59,21 +59,21 @@ These are some compatible mods if you want to add to the experience:
 
 **Corrupting Female LLs:** Perhaps the most exiting feature of the mod besides the animations. At the start of a new campaign, you will have a bunch of missions listed. Every mission with the title "Capture XYZ I" is a mission chain that will eventually lead you to corrupting the enemy LL in question, and recruiting them. For most enemy LLs, you will have a choice to either use them as a lord or as a hero. Below you will find a table describing the options you have, as well as their implementation status: ( :construction: means that the character is functional, but their skill trees is messy, unbalanced and may contain placeholder texts.)
 
-| LL Character | Lord Option | Hero Option | Reskin Possible? | Variant Selector Support |
-| -------- | ------- | ------- | ------- | ------- |
-| Alarielle | :construction: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Aranessa | :construction: | :white_check_mark: | :white_check_mark: | :x: |
-| Ariel | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Isabella | :construction:    | :white_check_mark: | :white_check_mark: | :x: |
-| Sisters | :construction:    | :white_check_mark: |  :white_check_mark: | :white_check_mark: |
-| Valkia | :white_check_mark: | :white_check_mark: |  :white_check_mark: |  :x: |
-| Khalida | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: |
-| Morathi | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: |
-| Repanse | :x: | :white_check_mark: | :x: |  :x: |
-| Katarin | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Miao | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: |
-| Fay | :construction: | :white_check_mark: | :white_check_mark: |  :x: |
-| Elspeth | :x: | :white_check_mark: | :white_check_mark: |  :x: |
+| LL Character | Lord Option | Hero Option | Reskin Possible? | Variant Selector Support | What does she do?
+| -------- | ------- | ------- | ------- | ------- | ------- |
+| Alarielle | :construction: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Healer, Buffs Archers |
+| Aranessa | :construction: | :white_check_mark: | :white_check_mark: | :x: | |
+| Ariel | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |
+| Isabella | :construction:    | :white_check_mark: | :white_check_mark: | :x: | |
+| Sisters | :construction:    | :white_check_mark: |  :white_check_mark: | :white_check_mark: | |
+| Valkia | :white_check_mark: | :white_check_mark: |  :white_check_mark: |  :x: | |
+| Khalida | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | |
+| Morathi | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | |
+| Repanse | :x: | :white_check_mark: | :x: |  :x: | |
+| Katarin | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |
+| Miao | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | |
+| Fay | :construction: | :white_check_mark: | :white_check_mark: |  :x: | |
+| Elspeth | :x: | :white_check_mark: | :white_check_mark: |  :x: | |
 
 All "dominant" LLs, such as Morathi or Valkia, have a more fleshed out lord option. The lord options of the more "submissive" LLs like Alarielle will remain in the condition in which they were initially released. Reskins cannot be applied to Repanse, because she already gets a custom reskin in this mod.
 
