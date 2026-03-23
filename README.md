@@ -104,6 +104,7 @@ legend ariel_hero_corrupted
 legend katarin_hero_corrupted
 legend repanse_hero_corrupted
 legend elspeth_hero_corrupted
+legend hellebron_hero_corrupted
  ```
 ...or lord:
 
@@ -117,6 +118,7 @@ spawn corrupted_morathi
 spawn corrupted_aranessa
 spawn corrupted_sisters
 spawn corrupted_miao
+spawn corrupted_hellebron
 ```
 When spawned in this "artifical" manner, the lords spawn without names (Heroes do). To remedy this, you can use [Rename Legendary Lords](https://steamcommunity.com/sharedfiles/filedetails/?id=2856126380&searchtext=rename+legendary+lords)
 These are some other useful commands that I use for testing:
@@ -150,6 +152,7 @@ katarin_hero_corrupted_mission
 repanse_hero_corrupted_mission
 elspeth_hero_corrupted_mission
 valkia_hero_corrupted_mission
+hellebron_hero_corrupted_mission
 ```
 and for the lord version:
 ```
@@ -162,6 +165,7 @@ bst_summon_khalida
 bst_summon_valkia
 bst_other_summon_fay
 sewrat_morathi_final_stand_mission
+bst_summon_hellebron
 ```
 
 
