@@ -74,8 +74,9 @@ These are some compatible mods if you want to add to the experience:
 | Miao | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | Healer, Support |
 | Fay | :construction: | :white_check_mark: | :white_check_mark: |  :x: | Healer, Support |
 | Elspeth | :x: | :white_check_mark: | :white_check_mark: |  :x: | Amethyst Mage, Buffs Gunpowder units |
+| Hellebron | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :x: | Combat Specialist, buffs heroes and witch elves |
 
-All "dominant" LLs, such as Morathi or Valkia, have a more fleshed out lord option. The lord options of the more "submissive" LLs like Alarielle will remain in the condition in which they were initially released. Reskins cannot be applied to Repanse, because she already gets a custom reskin in this mod.
+Morathi, Hellebron and Valkia have a more fleshed out lord option, as it actually makes sense for them to be in command. The lord options of the more "submissive" LLs like Alarielle will remain in the condition in which they were initially released. Reskins cannot be applied to Repanse, because she already gets a custom reskin in this mod.
 
 
 
