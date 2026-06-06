@@ -71,8 +71,8 @@ These are some compatible mods if you want to add to the experience:
 | Morathi | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | Dark Mage, campaign buffs |
 | Repanse | :x: | :white_check_mark: | :x: |  :x: | Combat Specialist, Buffs Centigors |
 | Katarin | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Ice Mage, Buffs Bestigors, Battlefield debuff for enemy |
-| Miao | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | Healer, Support |
-| Fay | :construction: | :white_check_mark: | :white_check_mark: |  :x: | Healer, Support |
+| Miao | :construction: | :white_check_mark: | :white_check_mark: |  :white_check_mark: | Healer, Buffs Large Monsters, Support |
+| Fay | :construction: | :white_check_mark: | :white_check_mark: |  :x: | Healer, buffs Chaos Spawn and Cygors Support |
 | Elspeth | :x: | :white_check_mark: | :white_check_mark: |  :x: | Amethyst Mage, Buffs Gunpowder units |
 | Hellebron | :white_check_mark: | :white_check_mark: | :white_check_mark: |  :x: | Combat Specialist, buffs heroes and witch elves |
 
