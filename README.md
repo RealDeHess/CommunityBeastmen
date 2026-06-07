@@ -195,6 +195,7 @@ Contributors:
 - Primal__Fox (Morathi & Sulephet story)
 - Zenoas (Kept the discord horny in 2024)
 - ThrowawayPoodle (Greenskin Enjoyer)
+- Andrew (Modelling and Animation)
 
 Honorable Mentions: 
 - Zeta0080 for letting us use some of their Warmaiden assets.
