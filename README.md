@@ -59,7 +59,7 @@ These are some compatible mods if you want to add to the experience:
 
 **Corrupting Female LLs:** Perhaps the most exiting feature of the mod besides the animations. At the start of a new campaign, you will have a bunch of missions listed. Every mission with the title "Capture XYZ I" is a mission chain that will eventually lead you to corrupting the enemy LL in question, and recruiting them. For most enemy LLs, you will have a choice to either use them as a lord or as a hero. Below you will find a table describing the options you have, as well as their implementation status: ( :construction: means that the character is functional, but their skill trees is messy, unbalanced and may contain placeholder texts.)
 
-| LL Character | Lord Option | Hero Option | Reskin Possible? | Variant Selector Support | What does she do?
+| LL Character | Lord Option | Hero Option | Additional Reskin Possible | Variant Selector Support | What does she do?
 | -------- | ------- | ------- | ------- | ------- | ------- |
 | Alarielle | :construction: | :white_check_mark: | :white_check_mark: | :white_check_mark: | Healer, Buffs Archers, Passive Healing |
 | Aranessa | :construction: | :white_check_mark: | :white_check_mark: | :x: | Combat Specialist, Buffs Ungors, Buffs Sea warfare |
