@@ -79,7 +79,8 @@ These are some compatible mods if you want to add to the experience:
 Morathi, Hellebron and Valkia have a more fleshed out lord option, as it actually makes sense for them to be in command. The lord options of the more "submissive" LLs like Alarielle will remain in the condition in which they were initially released. Reskins cannot be applied to Repanse, because she already gets a custom reskin in this mod.
 
 
-
+## Known Problems
+The rites screen is not scrollable when a lord is selected. Deselect the lord, and open the screen again to fix
 
 
 ## Helpful Console Commands
